@@ -1,2 +1,2 @@
-# computer_vision_notes
+# computer vision notes
 Learning computer vision and documenting my journey right here!
