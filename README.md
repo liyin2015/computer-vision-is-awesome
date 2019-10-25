@@ -9,7 +9,7 @@ Note: [Jupyter NBviewer](https://nbviewer.jupyter.org/) linkes is used to view `
 ### Convolution, filtering, edge detection
 [notes and code](https://nbviewer.jupyter.org/github/liyin2015/awesome-computer-vision/blob/master/convolution_filtering_edge_detection.ipynb)
 ### Canny Edge, Corner, and Shape Detection
-[notes and code](https://github.com/liyin2015/awesome-computer-vision/blob/master/edge_corner_shape_detection.ipynb)
+[notes and code](https://nbviewer.jupyter.org/github/liyin2015/awesome-computer-vision/blob/master/edge_corner_shape_detection.ipynb)
 
 ## Interesting Topics (not organized at all!)
 ### Image morphing 
