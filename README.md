@@ -11,7 +11,7 @@ Note: [Jupyter NBviewer](https://nbviewer.jupyter.org/) linkes is used to view `
 ### Canny Edge, Corner, and Shape Detection
 [notes and code](https://nbviewer.jupyter.org/github/liyin2015/awesome-computer-vision/blob/master/edge_corner_shape_detection.ipynb)
 
-## Interesting Topics (not organized at all!)
+## Interesting Topics
 ### Image morphing 
 https://www.cs.toronto.edu/~mangas/teaching/320/slides/CSC320T12.pdf
 
