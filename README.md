@@ -5,7 +5,7 @@ I'm taking a Computer Vision class, which is a great opportunity for me to grisp
 
 ## Image Processing
 ### Convolution, filtering, edge detection
-[notes and code](https://github.com/liyin2015/computer_vision_notes/blob/master/convolution_filtering_edge_detection.ipynb)
+[notes and code](https://nbviewer.jupyter.org/github/liyin2015/awesome-computer-vision/blob/master/convolution_filtering_edge_detection.ipynb)
 ### Canny Edge, Corner, and Shape Detection
 [notes and code](https://github.com/liyin2015/awesome-computer-vision/blob/master/edge_corner_shape_detection.ipynb)
 
