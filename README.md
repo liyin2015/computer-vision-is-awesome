@@ -14,5 +14,7 @@ Note: [Jupyter NBviewer](https://nbviewer.jupyter.org/) linkes is used to view `
 ## Interesting Topics
 ### Image morphing 
 https://www.cs.toronto.edu/~mangas/teaching/320/slides/CSC320T12.pdf
+### Stereoscopic 3D Vision
+[Depth Estimation using Monocular and StereoCues](http://www.cs.cornell.edu/~asaxena/learningdepth/DepthEstimation_Saxena_IJCAI.pdf)
 
 ## Resources
